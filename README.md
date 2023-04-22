@@ -53,6 +53,7 @@
 - [北大计算机课程大作业](https://github.com/tongtzeho/PKUCourse)
 - [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
 - [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course)
+- [上海交通大学课程资料分享](https://github.com/kxxwz/SJTU-Courses)
 
 ## 分享故事
 
