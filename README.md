@@ -47,6 +47,13 @@
 | 离散数学           |          | 思想道德修养与法律基础（思修法基）               | 计算机网络     |
 |                    |          | 形势与政策以及当代世界经济与政治(时政)           | 数据库         |
 
+## 推荐项目
+
+- [清华大学计算机系课程攻略 ](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+- [北大计算机课程大作业](https://github.com/tongtzeho/PKUCourse)
+- [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
+- [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course)
+
 ## 分享故事
 
 ```text
