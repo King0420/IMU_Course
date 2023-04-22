@@ -50,10 +50,17 @@
 ## 推荐项目
 
 - [清华大学计算机系课程攻略 ](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+- [北京大学课程资料民间整理](https://github.com/lib-pku/libpku)
 - [北大计算机课程大作业](https://github.com/tongtzeho/PKUCourse)
 - [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
 - [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course)
 - [上海交通大学课程资料分享](https://github.com/kxxwz/SJTU-Courses)
+- [东南大学课程共享计划](https://github.com/zjdx1998/seucourseshare)
+- [西安交通大学课程资料共享计划](https://github.com/cantjie/XJTU-Share)
+- [中山大学课程资料分享](https://github.com/sysuexam/SYSU-Exam)
+- [南京大学课程复习资料](https://github.com/idealclover/NJU-Review-Materials)
+- [郑州大学课程复习资料](https://github.com/CooperNiu/ZZU-Courses-Resource)
+- [东北大学机器人课程攻略共享计划](https://github.com/mywisdomfly/NEU-RSE-Courses)
 
 ## 分享故事
 
