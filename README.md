@@ -73,8 +73,10 @@
 ```text
 大学不同于中小学，大学是一个半社会半学校属性的社会教育组织。好的学校可能学术氛围更好，差的学校社会氛围更多。不管处于什么环境都应该给自己规划。出生农村的我什么都没有，家长和中小学的老师都不懂规划，现在到了大学快毕业才终于明白跟大城市来的学生之间究竟差哪里了。除了资源和天赋，差在对社会的了解，对未来的规划，对人性的把握等方面。没有资源和天赋，但有一个详细的规划，人混的也不会太差。当我即将毕业才终于明白。
 ```
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=King0420/IMU_Course&type=Timeline)](https://star-history.com/#King0420/IMU_Course&Timeline)
+
 
 
