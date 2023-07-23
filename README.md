@@ -63,9 +63,9 @@
 - [东北大学机器人课程攻略共享计划](https://github.com/mywisdomfly/NEU-RSE-Courses)
 
 ## 推荐网站
-> [导师评价 - 研控 (yankong.org)](https://www.yankong.org/review)
-> [分数公示-内蒙古大学招生网 (imu.edu.cn)](https://zhaosheng.imu.edu.cn/fsgs.htm)
-> [中国研究生招生信息网 (chsi.com.cn)](https://yz.chsi.com.cn/)
+- [导师评价 - 研控 (yankong.org)](https://www.yankong.org/review)
+- [分数公示-内蒙古大学招生网 (imu.edu.cn)](https://zhaosheng.imu.edu.cn/fsgs.htm)
+- [中国研究生招生信息网 (chsi.com.cn)](https://yz.chsi.com.cn/)
 
 
 ## 大学感悟
