@@ -63,6 +63,7 @@
 - [郑州大学课程复习资料](https://github.com/CooperNiu/ZZU-Courses-Resource)
 - [东北大学机器人课程攻略共享计划](https://github.com/mywisdomfly/NEU-RSE-Courses)
 - [CS 计算机自学指南](https://github.com/PKUFlyingPig/cs-self-learning)
+- [120+国内高校课程资源纯手工整理](https://github.com/nwuzmedoutlook/university)
 
 ## 推荐网站
 - [导师评价 - 研控 (yankong.org)](https://www.yankong.org/review)
