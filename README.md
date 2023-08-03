@@ -7,6 +7,7 @@
 ![](https://img.shields.io/github/repo-size/King0420/IMU_Course.svg?style=flat)
 
 ![IMU_Course](https://socialify.git.ci/King0420/IMU_Course/image?description=1&font=Inter&forks=1&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Light)
+
 > Look what I shared: 软件工程专业人才培养方案-计算机学院 @MIUI | https://ccs.imu.edu.cn/bkspy/pyfa.htm 
 > 
 > 注意：仓库内容是软件工程专业人才培养方案 2019 级，不是最新的方案。仓库中没有通识教育选修课，因为每个人选的不一样。
