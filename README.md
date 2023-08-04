@@ -20,6 +20,7 @@
 > 4. 参加国考、省考、选调生(一定要参加)和考研。
 
 仓库内容是大学的课程，可以根据仓库内容和培养方案来规划自己的大学生活。至于说课程相关资料，只能靠自己向往届的学长学姐或老师要了，我的资料已经过时了（体现了社会属性）。
+> Oracle课程资料（课程难度高）：[内蒙古大学软件工程Oracle课程攻略 (github.com)](https://github.com/King0420/IMU_Oracle)
 
 ## 课程分类
 
@@ -68,8 +69,8 @@
 - [120+国内高校课程资源](https://github.com/nwuzmedoutlook/university)
 
 ## 推荐网站
-- [导师评价 - 研控 (yankong.org)](https://www.yankong.org/review)
-- [分数公示-内蒙古大学招生网 (imu.edu.cn)](https://zhaosheng.imu.edu.cn/fsgs.htm)
+- [研控 (yankong.org)](https://www.yankong.org/review)
+- [内蒙古大学招生网 (imu.edu.cn)](https://zhaosheng.imu.edu.cn/fsgs.htm)
 - [中国研究生招生信息网 (chsi.com.cn)](https://yz.chsi.com.cn/)
 
 
