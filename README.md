@@ -70,6 +70,7 @@
 
 ## 推荐网站
 - [研控 (yankong.org)](https://www.yankong.org/review)
+- [框框大学](https://www.kkdaxue.com/)
 - [内蒙古大学招生网 (imu.edu.cn)](https://zhaosheng.imu.edu.cn/fsgs.htm)
 - [中国研究生招生信息网 (chsi.com.cn)](https://yz.chsi.com.cn/)
 
