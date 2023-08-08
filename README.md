@@ -8,6 +8,10 @@
 
 ![IMU_Course](https://socialify.git.ci/King0420/IMU_Course/image?description=1&font=Inter&forks=1&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Light)
 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&height=32&lines=%E5%86%85%E8%92%99%E5%8F%A4%E5%A4%A7%E5%AD%A6%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AD%A6%E9%99%A2%EF%BC%88%E8%BD%AF%E4%BB%B6%E5%AD%A6%E9%99%A2%EF%BC%89%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B" alt="Typing SVG" /></a>
+</p>
+
 > Look what I shared: 软件工程专业人才培养方案-计算机学院 @MIUI | https://ccs.imu.edu.cn/bkspy/pyfa.htm 
 > 
 > 注意：仓库内容是软件工程专业人才培养方案 2019 级，不是最新的方案。仓库中没有通识教育选修课，因为每个人选的不一样。
@@ -21,6 +25,7 @@
 
 仓库内容是大学的课程，可以根据仓库内容和培养方案来规划自己的大学生活。至于说课程相关资料，只能靠自己向往届的学长学姐或老师要了，我的资料已经过时了（体现了社会属性）。
 > Oracle课程资料（课程难度高）：[内蒙古大学软件工程Oracle课程攻略 (github.com)](https://github.com/King0420/IMU_Oracle)
+
 
 ## 课程分类
 
