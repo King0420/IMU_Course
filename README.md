@@ -74,6 +74,8 @@
 - [东北大学机器人课程攻略共享计划](https://github.com/mywisdomfly/NEU-RSE-Courses)
 - [CS 计算机自学指南](https://github.com/PKUFlyingPig/cs-self-learning)
 - [120+国内高校课程资源](https://github.com/nwuzmedoutlook/university)
+- [考研408的复习经验，资源和笔记](https://github.com/ddy-ddy/cs-408)
+- [计算机考研 408 专业课资料及真题](https://github.com/CodePanda66/CSPostgraduate-408)
 
 ## 推荐网站
 - [研控 (yankong.org)](https://www.yankong.org/review)
