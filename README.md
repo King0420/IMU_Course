@@ -79,6 +79,7 @@
 - [120+国内高校课程资源](https://github.com/nwuzmedoutlook/university)
 - [考研408的复习经验，资源和笔记](https://github.com/ddy-ddy/cs-408)
 - [计算机考研 408 专业课资料及真题](https://github.com/CodePanda66/CSPostgraduate-408)
+- [中山大学计算机科学专业的课程资料](https://github.com/ysyisyourbrother/SYSU_Notebook)
 
 ## 推荐网站
 - [研控 (yankong.org)](https://www.yankong.org/review)
