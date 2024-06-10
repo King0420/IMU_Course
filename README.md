@@ -107,5 +107,4 @@
 
 ![亮色](https://raw.githubusercontent.com/King0420/King0420/output/github-contribution-grid-snake.svg)
 
-![GitHub](https://github.com/King0420/IMU_Course/assets/104044278/3b11563f-bf09-4b44-b9c3-e9d292f541c8)
 
