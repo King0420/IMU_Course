@@ -15,7 +15,7 @@
 </p>
 </details>
 
-> Look what I shared: 软件工程专业人才培养方案-计算机学院 @MIUI | https://ccs.imu.edu.cn/bkspy/pyfa.htm 
+> Look what I shared: 软件工程专业人才培养方案-计算机学院 @MIUI | https://ccs.imu.edu.cn/rcpy/bkjy1/pyfa.htm
 > 
 > **注意**：仓库内容是软件工程专业人才培养方案 2019 级，不是最新的方案。仓库中没有通识教育选修课，因为每个人选的不一样。
 
