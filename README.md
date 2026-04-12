@@ -139,5 +139,7 @@
 -->
 
 ![亮色](https://raw.githubusercontent.com/King0420/King0420/output/github-contribution-grid-snake.svg)
+![扫码_搜索联合传播样式-标准色版](https://github.com/user-attachments/assets/4a9003cd-122e-4b73-a888-09f5953b6524)
+
 
 
