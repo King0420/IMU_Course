@@ -130,9 +130,9 @@
 
 
 ## Star History
-
+<!--
 [![Star History Chart](https://api.star-history.com/svg?repos=King0420/IMU_Course&type=Timeline)](https://star-history.com/#King0420/IMU_Course&Timeline)
-
+-->
 <!--
 ## Repo Roster
 [![Stargazers repo roster for @King0420/IMU_Course](https://reporoster.com/stars/King0420/IMU_Course)](https://github.com/King0420/IMU_Course/stargazers)
